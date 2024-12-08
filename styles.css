@@ -13,7 +13,7 @@ body {
     align-items: center;
     background-color: lightblue;
     --black-opacity: 0.5;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--black-opacity)), rgba(0, 0, 0, var(--black-opacity))), url("./assets/clari_dto.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--black-opacity)), rgba(0, 0, 0, var(--black-opacity))), url("./assets/yami-clari.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
